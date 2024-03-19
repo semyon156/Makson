@@ -26,7 +26,7 @@ class MainActivity : ComponentActivity() {
                 }
 
 
-//path 1
+//path 2
             }
         }
     }
