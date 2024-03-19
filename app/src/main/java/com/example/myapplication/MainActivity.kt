@@ -24,7 +24,7 @@ class MainActivity : ComponentActivity() {
                 ) {
                     Greeting("Android")
                 }
-
+//kdkdkdkkdk
 
 //path 2
             }
